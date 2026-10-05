@@ -166,4 +166,5 @@ public class Util {
 		return formatter.format(javaDate);
 	}
 	
+	public void prueba2() {}
 }
